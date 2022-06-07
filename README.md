@@ -65,6 +65,7 @@ src="https://img.shields.io/github/followers/RoHaNaLpHaCoDeR?logo=github&style=f
 
 <div width="100%" align="center"><a href="https://github.com/RoHaNaLpHaCoDeR/Echo-Chamber-in-Delhi-Election-2020" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=Echo-Chamber-in-Delhi-Election-2020&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/RoHaNaLpHaCoDeR/Multi-modal-Emotion-Analysis-on-COVID-19" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=Multi-modal-Emotion-Analysis-on-COVID-19&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a>
 </div></p>
-
-
-<a href="https://www.buymeacoffee.com/rohanaroraw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div>
+<br/><br/><br/><br/><br/>
+<p><a href="https://www.buymeacoffee.com/rohanaroraw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
+</div>
