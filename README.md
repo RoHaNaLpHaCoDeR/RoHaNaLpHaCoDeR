@@ -83,9 +83,8 @@ src="https://img.shields.io/github/followers/RoHaNaLpHaCoDeR?logo=github&style=f
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div>
-  <h1>BUY ME A COFFEE</h1>
-<div><br/><br/>
-
+  <b>Buy me a coffee</b>
+<div><br/>
   <p><a href="https://www.buymeacoffee.com/rohanaroraw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
 </div>
 </div>
