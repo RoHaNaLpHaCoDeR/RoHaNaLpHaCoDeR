@@ -58,8 +58,16 @@ src="https://img.shields.io/github/followers/RoHaNaLpHaCoDeR?logo=github&style=f
 
 <b>Top Repositories</b>
 
-<p>
-<div width="100%" align="center"><a href="https://github.com/RoHaNaLpHaCoDeR/Real-Time-Face-Mask-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=Real-Time-Face-Mask-Detection&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/RoHaNaLpHaCoDeR/FNDHL-Fake-News-Detection-in-Hindi-Language" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=FNDHL-Fake-News-Detection-in-Hindi-Language&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  
+  <a href="https://github.com/RoHaNaLpHaCoDeR/Real-Time-Face-Mask-Detection" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=Real-Time-Face-Mask-Detection&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+  
+  <a href="https://github.com/RoHaNaLpHaCoDeR/FNDHL-Fake-News-Detection-in-Hindi-Language" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoHaNaLpHaCoDeR&repo=FNDHL-Fake-News-Detection-in-Hindi-Language&title_color=ef4444&text_color=22c55e&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+</div><br /><br /><br /><br />
 
 <br /><br /><br />
 
