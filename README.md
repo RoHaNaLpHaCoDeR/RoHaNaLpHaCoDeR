@@ -8,7 +8,7 @@ An enthusiastic fresher with exceptional leadership skills pursuing bachelors of
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [rohanaroraaashi@gmail.com](mailto:rohanaroraaashi@gmail.com)
-* 🧠  I'm learning Solidity
+* 🧠  I'm learning AI.
 * 🤝  I'm open to collaborating on Machine Learning projects
 
 <a href="https://www.twitter.com/RohanAr66587212" target="_blank" rel="noreferrer"><img
